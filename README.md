@@ -412,26 +412,3 @@ For details, see [Configuration](https://www.blacklanternsecurity.com/bbot/Stabl
             - [Word Cloud](https://www.blacklanternsecurity.com/bbot/Stable/dev/helpers/wordcloud)
 <!-- END BBOT DOCS TOC -->
 
-## Contribution
-
-Some of the best BBOT modules were written by the community. BBOT is being constantly improved; every day it grows more powerful!
-
-We welcome contributions. Not just code, but ideas too! If you have an idea for a new feature, please let us know in [Discussions](https://github.com/blacklanternsecurity/bbot/discussions). If you want to get your hands dirty, see [Contribution](https://www.blacklanternsecurity.com/bbot/Stable/contribution/). There you can find setup instructions and a simple tutorial on how to write a BBOT module. We also have extensive [Developer Documentation](https://www.blacklanternsecurity.com/bbot/Stable/dev/).
-
-Thanks to these amazing people for contributing to BBOT! :heart:
-
-<p align="center">
-<a href="https://github.com/blacklanternsecurity/bbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=blacklanternsecurity/bbot&max=500">
-</a>
-</p>
-
-Special thanks to:
-
-- @TheTechromancer for creating BBOT
-- @liquidsec for his extensive work on BBOT's web hacking features, including [badsecrets](https://github.com/blacklanternsecurity/badsecrets) and [baddns](https://github.com/blacklanternsecurity/baddns)
-- Steve Micallef (@smicallef) for creating Spiderfoot
-- @kerrymilan for his Neo4j and Ansible expertise
-- @domwhewell-sage for his family of badass code-looting modules
-- @aconite33 and @amiremami for their ruthless testing
-- Aleksei Kornev (@alekseiko) for granting us ownership of the bbot Pypi repository <3
